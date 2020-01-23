@@ -13,7 +13,7 @@ as quoted from a [blog post](https://dirksmetric.wordpress.com/2015/03/11/tutori
 
 * Or it could be that you want to have some of your own programs working in synergy with ProM but you don't know Java that much.
 
-* Or simply becuase that a sexy Graphical User Interface is brilliant but is not for everyone.
+* Or simply because that a sexy Graphical User Interface is brilliant but is not for everyone.
 
 This project is motivated by an issue that I have encountered in my own research, and is largely inspired by Dirk Fahland's blog post (see above) as well as a number of posts from the [ProM forum](https://www.win.tue.nl/promforum/).
 
