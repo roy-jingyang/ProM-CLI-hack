@@ -1,3 +1,7 @@
 # Ignore 'ProM' software directory
 prom*
 
+# Ignore Vim undo log
+*.un~
+*.swp
+
