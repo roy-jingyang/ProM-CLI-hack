@@ -4,8 +4,7 @@
 ## ProM specific
 ###
 PROGRAM=ProM
-ROOTDIR=./prom6/prom69 # set this to the directory where ProM.ini is
-#CP=./ProM69_dist/ProM-Framework-6.9.97.jar:./ProM69_dist/ProM-Contexts-6.9.56.jar:./ProM69_dist/ProM-Models-6.9.32.jar:./ProM69_dist/ProM-Plugins-6.9.67.jar
+ROOTDIR=./
 DISTDIR=${ROOTDIR}"/ProM69_dist"
 LIBDIR=${ROOTDIR}"/ProM69_lib"
 MAIN=org.processmining.contexts.cli.CLI
