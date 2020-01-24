@@ -35,7 +35,7 @@ do
 done
 
 
-set -x
+#set -x
 
 $JAVA \
     -Djava.system.class.loader=org.processmining.framework.util.ProMClassLoader \
