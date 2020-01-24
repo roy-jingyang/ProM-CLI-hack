@@ -31,9 +31,10 @@ Note that it is not the place where you would like to put your hacking codes in 
 
 To get things running, you will need to
 1. Put the main script under your ProM root directory, i.e, where configuration files like ``ProM.ini`` are;
+2. Change working directory to your ProM root directory;
 2. Write your own scripts as these .java files, and execute them by using the following shell command:
 ```console
-username@hostname:~$ sh [your_ProM_root_dir]/ProM69_CLI.sh -f [path_to_your_script]
+username@hostname:[your_ProM_root_dir]$ sh ProM69_CLI.sh -f [path_to_your_script]
 ```
 
 #### Notes
