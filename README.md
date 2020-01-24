@@ -15,6 +15,15 @@ as quoted from a [blog post](https://dirksmetric.wordpress.com/2015/03/11/tutori
 
 * Or simply because that a sexy Graphical User Interface is brilliant but is not for everyone.
 
+#### Before start
+A fresh download of ProM does not contain even those basic ones (meaning that it could fail in invoking functions like ``open_xes_log_file``). Make sure that you have already run ProM (via GUI) and have solved those basic dependencies (``Runner up packages``) using ProM PM before you get too excited about the CLI hack.
+
+In other words, it seems impossible to get CLI worked from the very beginning, which could pose some challenges if one wants to do all these on a server without GUI and using a fresh download.
+(There could be ways to solve those dependencies through CLI but unfortunately I haven't been able to figure them out. My best guess is to do it through an initial script that invokes a series of functions to fetch the first several packages to the local library).
+
+#### Notes
 This project is motivated by an issue that I have encountered in my own research, and is largely inspired by Dirk Fahland's blog post (see above) as well as a number of posts from the [ProM forum](https://www.win.tue.nl/promforum/).
+
+These 
 
 Note that this project is for experimental use and does not guarantee any unplanned functionalities, software code compliance or any future maintenance.
