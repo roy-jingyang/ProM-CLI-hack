@@ -1,5 +1,11 @@
 # Ignore 'ProM' software directory
-prom*
+prom*/
+
+# Ignore the Java binaries directory
+jre/
+
+# Ignore the data directory
+data/
 
 # Ignore Vim undo log
 *.un~
