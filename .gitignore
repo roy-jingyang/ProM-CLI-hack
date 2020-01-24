@@ -1,9 +1,6 @@
 # Ignore 'ProM' software directory
 prom*/
 
-# Ignore the Java binaries directory
-jre/
-
 # Ignore the data directory
 data/
 
